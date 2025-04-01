@@ -1,0 +1,11 @@
+android {
+    compileSdkVersion 33
+
+    defaultConfig {
+        applicationId "com.example.cube_puzzle"
+        minSdkVersion 21  // Android 5.0+ (Android 11 ve 12’yi kapsar)
+        targetSdkVersion 33
+        versionCode 1
+        versionName "1.0"
+    }
+}
